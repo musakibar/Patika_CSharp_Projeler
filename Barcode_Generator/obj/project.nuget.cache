@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5K9TGLEhEJkGZlFQywGURV3kZ1XSj41cM1GbQciwgyQakCA5VGXLTtwXIzSAIk5SbiMqt19gBUcs2a1M80Tyvw==",
+  "dgSpecHash": "3tjKLngPjjv6suGPKFXWYDrBFjtZVYI5LDZpbUHXftTwYNWCLLnA+2EAlzUZnvFoslWV0BlXREUwijF25BV3aA==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Documents\\Patika_CSharp_Projeler\\Barcode_Generator\\Barcode_Generator.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\barcode\\2022.8.8024\\barcode.2022.8.8024.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",

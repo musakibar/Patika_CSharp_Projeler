@@ -1,24 +1,30 @@
-﻿
-using BarcodeLib;
-using System;
+﻿using BarcodeApp;
 
-namespace Proje_Barcode_Generator
+BarcodeManager barcodeManager = new BarcodeManager();
+
+Console.WriteLine("BarcodeGenarator/Scanner uygulamasına hoşgeldiniz. " +
+    "Lütfen yapmak istediğiniz işlemi seçiniz.");
+Console.WriteLine("1) Barkod oluşturma");
+Console.WriteLine("2) Barkod okuma");
+
+string secim = Console.ReadLine();
+
+switch (secim)
 {
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            Barcode barcode = BarcodeGenerator.BarcodeMaker("777");
-            Console.WriteLine(BarcodeGenerator.BarcodeReader(barcode));
+    case "1":
 
-            barcode = BarcodeGenerator.BarcodeMaker("11");
-            Console.WriteLine(BarcodeGenerator.BarcodeReader(barcode));
+        Console.WriteLine("Lütfen barkod görüntüsünü oluşturmak istediğiniz barkodun " +
+        "sayısal bilgilerini giriniz (Örnek: 0123456789123)");
+        string numericString = Console.ReadLine();
+        barcodeManager.GenerateBarcode(numericString);
+        break;
 
-            barcode = BarcodeGenerator.BarcodeMaker("11");
-            Console.WriteLine(BarcodeGenerator.BarcodeReader(barcode));
+    case "2":
 
-            barcode = BarcodeGenerator.BarcodeMaker("777");
-            Console.WriteLine(BarcodeGenerator.BarcodeReader(barcode));
-        }
-    }
+        Console.WriteLine(" Lütfen barkod görüntüsünü oluşturmak istediğiniz barkodun " +
+            "bilgisayarınızdaki dosya yolunu giriniz. Örnek (C:\\Users\\*******\\Desktop\\Barcode.png)");
+        barcodeManager.ReadBarcode(Console.ReadLine());
+        break;
 }
+
+Console.ReadLine();

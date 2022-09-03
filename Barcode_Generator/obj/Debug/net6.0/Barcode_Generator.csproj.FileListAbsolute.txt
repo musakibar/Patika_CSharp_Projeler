@@ -20,3 +20,4 @@ C:\Users\PC\Documents\Patika_CSharp_Projeler\Barcode_Generator\obj\Debug\net6.0\
 C:\Users\PC\Documents\Patika_CSharp_Projeler\Barcode_Generator\obj\Debug\net6.0\Barcode_Generator.pdb
 C:\Users\PC\Documents\Patika_CSharp_Projeler\Barcode_Generator\obj\Debug\net6.0\Barcode_Generator.genruntimeconfig.cache
 C:\Users\PC\Documents\Patika_CSharp_Projeler\Barcode_Generator\obj\Debug\net6.0\ref\Barcode_Generator.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Barcode_Generator\bin\Debug\net6.0\IronBarCode.dll
