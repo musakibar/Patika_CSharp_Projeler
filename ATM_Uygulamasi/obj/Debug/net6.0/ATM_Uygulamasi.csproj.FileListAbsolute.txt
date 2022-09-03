@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\bin\Debug\net6.0\ATM_Uygulamasi.exe
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\bin\Debug\net6.0\ATM_Uygulamasi.deps.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\bin\Debug\net6.0\ATM_Uygulamasi.runtimeconfig.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\bin\Debug\net6.0\ATM_Uygulamasi.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\bin\Debug\net6.0\ATM_Uygulamasi.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.AssemblyInfo.cs
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\refint\ATM_Uygulamasi.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ATM_Uygulamasi.genruntimeconfig.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\ATM_Uygulamasi\obj\Debug\net6.0\ref\ATM_Uygulamasi.dll
