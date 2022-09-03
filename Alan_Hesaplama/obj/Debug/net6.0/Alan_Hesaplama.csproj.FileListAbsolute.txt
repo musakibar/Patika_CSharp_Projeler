@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.exe
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.deps.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.runtimeconfig.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\bin\Debug\net6.0\Alan_Hesaplama.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.AssemblyInfo.cs
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\refint\Alan_Hesaplama.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\Alan_Hesaplama.genruntimeconfig.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Alan_Hesaplama\obj\Debug\net6.0\ref\Alan_Hesaplama.dll
