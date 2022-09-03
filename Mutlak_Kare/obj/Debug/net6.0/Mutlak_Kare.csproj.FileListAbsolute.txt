@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\bin\Debug\net6.0\Mutlak_Kare.exe
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\bin\Debug\net6.0\Mutlak_Kare.deps.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\bin\Debug\net6.0\Mutlak_Kare.runtimeconfig.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\bin\Debug\net6.0\Mutlak_Kare.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\bin\Debug\net6.0\Mutlak_Kare.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.AssemblyInfo.cs
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\refint\Mutlak_Kare.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\Mutlak_Kare.genruntimeconfig.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Mutlak_Kare\obj\Debug\net6.0\ref\Mutlak_Kare.dll
