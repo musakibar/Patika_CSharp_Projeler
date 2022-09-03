@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\bin\Debug\net6.0\Voting_Uygulaması.exe
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\bin\Debug\net6.0\Voting_Uygulaması.deps.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\bin\Debug\net6.0\Voting_Uygulaması.runtimeconfig.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\bin\Debug\net6.0\Voting_Uygulaması.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\bin\Debug\net6.0\Voting_Uygulaması.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.AssemblyInfo.cs
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\refint\Voting_Uygulaması.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\Voting_Uygulaması.genruntimeconfig.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Voting_Uygulaması\obj\Debug\net6.0\ref\Voting_Uygulaması.dll
