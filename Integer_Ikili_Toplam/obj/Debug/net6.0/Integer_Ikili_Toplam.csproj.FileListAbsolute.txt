@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\bin\Debug\net6.0\Integer_Ikili_Toplam.exe
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\bin\Debug\net6.0\Integer_Ikili_Toplam.deps.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\bin\Debug\net6.0\Integer_Ikili_Toplam.runtimeconfig.json
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\bin\Debug\net6.0\Integer_Ikili_Toplam.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\bin\Debug\net6.0\Integer_Ikili_Toplam.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.AssemblyInfo.cs
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\refint\Integer_Ikili_Toplam.dll
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.pdb
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\Integer_Ikili_Toplam.genruntimeconfig.cache
+C:\Users\PC\Documents\Patika_CSharp_Projeler\Integer_Ikili_Toplam\obj\Debug\net6.0\ref\Integer_Ikili_Toplam.dll
